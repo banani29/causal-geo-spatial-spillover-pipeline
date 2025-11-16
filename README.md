@@ -1,2 +1,2 @@
 # causal-geo-spatial-exp
-A modular, plug-and-play pipeline for geospatial clustering, matching, and causal inference (IPW + DiD + event study) using panel data.
+Geo-aware causal experimentation toolkit for panel data, combining clustering, spatial matching, and IPW + DiD analysis with plug-and-play examples.
